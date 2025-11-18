@@ -4,43 +4,6 @@ AI4science
 食品科学
 
 食品装备
-华为
-鸿蒙
-HarmonyOS
-
-宇树
-
-智元
-灵犀
-稚晖君
-
-
-字节
-bytedance
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 
 ai
@@ -51,19 +14,11 @@ ai
 
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
 
 科技
-
-核能
 
 
 新质生产力
