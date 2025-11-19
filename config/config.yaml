@@ -113,3 +113,15 @@ platforms:
     name: "ProductHunt"
   - id: "36kr"
     name: "36氪"
+  - id: "hyperai"
+    name: "超神经"
+
+  - id: "modelscope"
+    name: "魔搭社区"
+
+  - id: "huggingface"
+    name: "huggingface"
+
+
+
+  
